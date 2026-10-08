@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://luca-g07.github.io/sitemap.xml
+
+Sitemap: https://luca-g07.github.io/secure-passwords-app/sitemap.xml
